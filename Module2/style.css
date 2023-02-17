@@ -38,7 +38,9 @@ h1 {
   margin-right: 45px;
   margin-top: 0px;
   font-weight: bold;
-  position: relative;
+  position: absolute;
+  top: 0px;
+  right: 0px;
 }
 
 .content{
