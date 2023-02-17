@@ -39,12 +39,8 @@ h1 {
   margin-top: 0px;
   font-weight: bold;
   position: relative;
-}
-
-#topRightFixed {
-   position: fixed;
-   top: 0;
-   right: 0;
+  top: 0;
+  right: 0;	
 }
 
 .content{
