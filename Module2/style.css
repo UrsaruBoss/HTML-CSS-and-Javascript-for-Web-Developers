@@ -35,7 +35,7 @@ h1 {
   height: 40px;
   padding: 5px;
   float: right;
-  margin-right: 45px;
+  margin-right: 65px;
   margin-top: 0px;
   font-weight: bold;
   position: relative;	
@@ -87,7 +87,7 @@ h1 {
     width: 100%;
   }
   .name3{
-    margin-right: 60px;
+    margin-right: 65px;
     width: 100px;
   }
 }
